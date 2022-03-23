@@ -106,6 +106,7 @@ dist
 # Frames
 frames/*
 files/*
+!files/.gitkeep
 
 exports/*
 source/*
