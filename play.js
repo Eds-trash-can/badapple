@@ -1,4 +1,6 @@
-const badapple = require("./badapple.json")
+console.log("file", process.argv[2])
+
+const badapple = require("./"+ process.argv[2])
 
 const iv = setInterval(_ => {
 	const frame = badapple.frames.shift()

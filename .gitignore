@@ -105,4 +105,8 @@ dist
 
 # Frames
 frames/*
-badapple.json
+files/*
+
+exports/*
+source/*
+clip.mkv
